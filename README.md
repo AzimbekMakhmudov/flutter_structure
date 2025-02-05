@@ -1,3 +1,4 @@
+```
 lib/
 │-- main.dart
 │-- core/
@@ -28,6 +29,7 @@ lib/
 │-- constants.dart
 │-- utils.dart
 │-- main.dart
+```
 
 
 This is a well-organized Flutter project structure that follows Clean Architecture with BLoC and Dio for state management and API calls. Here's a detailed breakdown of each folder and file, including how they fit together in this setup.
