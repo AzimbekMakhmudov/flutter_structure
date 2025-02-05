@@ -33,7 +33,7 @@ lib/
 
 
 This is a well-organized Flutter project structure that follows Clean Architecture with BLoC and Dio for state management and API calls. Here's a detailed breakdown of each folder and file, including how they fit together in this setup.
-
+```
 📂 Folder Breakdown
 1. core/
 Contains global configurations, utility classes, network handling, and reusable widgets.
@@ -137,7 +137,7 @@ constants.dart: General app-wide constants.
 utils.dart: Helper functions for common tasks (e.g., date formatting).
 📌 Key Concepts & Best Practices
 Clean Architecture: This structure follows Clean Architecture, which promotes separation of concerns and enhances maintainability and testability.
-
+```
 Core: Contains app-wide configurations and utilities.
 Data: Deals with data manipulation, API calls, and repository pattern.
 Domain: Contains the business logic and use cases.
